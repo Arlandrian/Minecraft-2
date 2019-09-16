@@ -1,6 +1,6 @@
 # Minecraft-2
 
-Minecraft-like game with 3D procedural generation and multiplayer features
+Minecraft-like game with 3D procedural generation and multiplayer features made in Unity game engine.
 
 ### Features:
 - Multiplayer game play, synchronized world
