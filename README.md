@@ -9,6 +9,7 @@ Minecraft-like game with 3D procedural generation and multiplayer features
 - Optimizations: Batching cubes into chunks, occlusion culling
 - Fence system for player to be able to have private areas that only be modified by themselves.
 
+Unity Version: 2017.3.1f1
 ## Game Screenshots
 
 ![](/Images/sss9.png)
