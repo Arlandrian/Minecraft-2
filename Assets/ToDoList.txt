@@ -1,0 +1,39 @@
+﻿1- Karakter ekleme +
+2- Chunkları oyunucunun etrafında yükleyip, silme +
+
+2.2- Multiplayer izlemeye başla sistemi ona göre kur
+3- Chunkları kaydetme +
+4- Block silme +
+5- Block Ekleme +
+
+
+--Multiplayer
+1-Video izle +
+2-Karakterleri senkronla +
+3-block ekle sil senkronizasyonu +
+
+
+3-Çit sistemi ekle
+
+
+1.server ın koyduğu fencelerin objeleri clientta çizilmiyo +
+
+2.client ın koyduğu red stone da gözükmüyo fence de gözükmüyo
+(kendi red stone koyunca null reference exception alıyo
++fenceleri çizilmiyo) +++
+
+4.client ve server ilişkilerini düzenle
+
+3.fenceler izin vermemesi lazım
+
+
+
+
+
+4-Seed Sistemi Ekle
+
+Ekstralar
+1-Ağaç Ekle
+2-Karakter kontrollerini düzenle
+3-Chunkları hostdan çek
+4-Threading dene
