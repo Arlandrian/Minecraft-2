@@ -9,7 +9,8 @@ Features:
 - Optimizations: Batching cubes into chunks, occlusion culling
 - Fence system for player to be able to have private areas that only be modified by themselves.
 
-##Game Screenshots
+## Game Screenshots
+
 ![](/Images/sss9.png)
 ![](/Images/sss8.png)
 ![](/Images/sss1.png)
