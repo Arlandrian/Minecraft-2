@@ -2,7 +2,7 @@
 
 Minecraft-like game with 3D procedural generation and multiplayer features
 
-Features:
+### Features:
 - Multiplayer game play, synchronized world
 - 3D procedural world generation with perlin noise and brownian motion
 - Breaking and buillding blocks
