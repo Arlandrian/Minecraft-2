@@ -8,10 +8,11 @@ Minecraft-like game with 3D procedural generation and multiplayer features made 
 - Breaking and buillding blocks
 - Optimizations: Batching cubes into chunks, occlusion culling
 - Fence system for player to be able to have private areas that only be modified by themselves.
+![Networking Code](https://github.com/Arlandrian/Minecraft-2/tree/master/Assets/Scenes/Networking/Scripts)
+
 
 Unity Version: 2017.3.1f1
 ## Game Screenshots
-!["Networking Code"](https://github.com/Arlandrian/Minecraft-2/tree/master/Assets/Scenes/Networking/Scripts)
 
 ![](/Images/sss9.png)
 ![](/Images/sss8.png)
